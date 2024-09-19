@@ -1,0 +1,10 @@
+{
+    "Len_virtualID": 7,
+    "Number_splitting_vector": 100,
+    "Attenuation_coefficient": 0.9,
+    "Encryption_factor": 5,
+    "Number_user": 300,
+    "Number_group": 1,
+    "Number_user_per_group": 300,
+    "log": 1
+}
